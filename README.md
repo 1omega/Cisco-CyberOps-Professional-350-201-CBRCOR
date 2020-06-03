@@ -10,7 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/DoGByTeZN.svg?style=social&label=Follow%20%40DoGByTeZN)](https://twitter.com/DoGByTeZN)
 
 ## Table of Contents
-* [1.0 Fundamentals 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#1.0-Fundamentals-20%)
+* [1.0 Fundamentals 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#10-fundamentals-20)
 * [2.0 Techniques 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#2.0-Techniques-30%)
 * [3.0 Processes 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#3.0-Processes-30%)
 * [4.0 Automation 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#4.0-Automation-20%)
