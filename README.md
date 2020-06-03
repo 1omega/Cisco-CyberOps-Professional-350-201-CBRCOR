@@ -3,7 +3,7 @@
 
 -No Books, No Exams , No Reference, Only Exam Blue Prints For Now, Just How We Like It
 
--[Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717/) global collaboration study effort for the CBRCOR Exam
+-[Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717/) global collaboration effort for the CBRCOR Exam
 
 -Feel free to contribute by providing resources which you feel best match the exam objectives - MERGE REQUEST
 
