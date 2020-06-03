@@ -16,6 +16,7 @@
 ## * [4.0 Automation 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#40-automation-20)
 
 ### [1.0 Fundamentals 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#10-fundamentals-20)
+
 1.1 Interpret the components within a playbook |  
 ----  |  
 [Incident Response Playbook Creation](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1559689083.pdf)
