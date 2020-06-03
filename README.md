@@ -11,11 +11,11 @@
 
 ## Table of Contents
 * [1.0 Fundamentals 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#10-fundamentals-20)
-* [2.0 Techniques 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#2.0-Techniques-30%)
-* [3.0 Processes 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#3.0-Processes-30%)
-* [4.0 Automation 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#4.0-Automation-20%)
+* [2.0 Techniques 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#20-techniques-30)
+* [3.0 Processes 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#30-processes-30)
+* [4.0 Automation 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#40-automation-20)
 
-### [1.0 Fundamentals 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#1.0-Fundamentals-20%)
+### [1.0 Fundamentals 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#10-fundamentals-20)
 1.1 Interpret the components within a playbook |  
 ----  |  
 [TEST](https://www.cyberdegrees.org/jobs/)
@@ -48,6 +48,6 @@
 1.10 Compare security operations considerations of cloud platforms (for example, IaaS, PaaS) |  
 ----  |  
 
-### [2.0 Techniques 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#2.0-Techniques-30%)
-### [3.0 Processes 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#3.0-Processes-30%)
-### [4.0 Automation 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#4.0-Automation-20%)
+### [2.0 Techniques 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#20-techniques-30)
+### [3.0 Processes 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#30-processes-30)
+### [4.0 Automation 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#40-automation-20)
