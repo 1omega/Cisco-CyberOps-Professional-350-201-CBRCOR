@@ -18,14 +18,19 @@
 ### [1.0 Fundamentals 20%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#10-fundamentals-20)
 1.1 Interpret the components within a playbook |  
 ----  |  
-[TEST](https://www.cyberdegrees.org/jobs/)
-[TEST1](http://cyberseek.org/pathway.html) 
+[Incident Response Playbook Creation](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1559689083.pdf)
+[Integrated Adaptive Cyber Defense](https://www.iacdautomate.org/)
+[Top 5 best practices to automate security operations](https://www.microsoft.com/security/blog/2017/08/03/top-5-best-practices-to-automate-security-operations/)
+[Security Automation Best Practices](https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/rapid7-komand-automation-best-practices-whitepaper.pdf)
 
 1.2 Determine the tools needed based on a playbook scenario |  
 ----  |  
+[CISO Series: Lessons learned from the Microsoft SOC-Part 1: Organization](https://www.microsoft.com/security/blog/2019/02/21/lessons-learned-from-the-microsoft-soc-part-1-organization/)
+[Become an Azure Sentinel Ninja: The complete level 400 training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310?fbclid=IwAR2foglGnNoQnBuM3XLeBQpk-fcDaLchOuCQa4Y6GPCWdNbjedBzACLw4K0#)
 
 1.3 Apply the playbook for a common scenario (for example, unauthorized elevation of   privilege, DoS and DDoS, website defacement) |  
 ----  |  
+[Incidentresponse.com Playbooks](https://www.incidentresponse.com/playbooks/)
 
 1.4  Infer the industry for various compliance standards (for example, PCI, FISMA, FedRAMP, SOC, SOX, PCI, GDPR, Data Privacy, and ISO 27101) |  
 ----  |  
