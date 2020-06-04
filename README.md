@@ -7,7 +7,7 @@
 
 -Feel free to contribute by providing resources which you feel best match the exam objectives
 
--PULL REQUEST -> REVIEW PULL REQUEST -> APPROVE -> MERGE
+-PULL REQUEST -> REVIEW PULL REQUEST -> APPROVE -> MERGE INTO MASTER
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DoGByTeZN.svg?style=social&label=Follow%20%40DoGByTeZN)](https://twitter.com/DoGByTeZN)
 
