@@ -21,16 +21,16 @@
 
 1.1 Interpret the components within a playbook |  
 ----  |  
-[Incident Response Playbook Creation](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1559689083.pdf)
+[SANS - Incident Response Playbook Creation](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1559689083.pdf)
 [Integrated Adaptive Cyber Defense](https://www.iacdautomate.org/)
-[Top 5 best practices to automate security operations](https://www.microsoft.com/security/blog/2017/08/03/top-5-best-practices-to-automate-security-operations/)
-[Security Automation Best Practices](https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/rapid7-komand-automation-best-practices-whitepaper.pdf)
-[Using a playbook model to organize your information security monitoring strategy](https://blogs.cisco.com/security/using-a-playbook-model-to-organize-your-information-security-monitoring-strategy)
+[Microsoft - Top 5 best practices to automate security operations](https://www.microsoft.com/security/blog/2017/08/03/top-5-best-practices-to-automate-security-operations/)
+[Rapid 7 - Security Automation Best Practices](https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/rapid7-komand-automation-best-practices-whitepaper.pdf)
+[Cisco - Using a playbook model to organize your information security monitoring strategy](https://blogs.cisco.com/security/using-a-playbook-model-to-organize-your-information-security-monitoring-strategy)
 
 1.2 Determine the tools needed based on a playbook scenario |  
 ----  |  
-[CISO Series: Lessons learned from the Microsoft SOC-Part 1: Organization](https://www.microsoft.com/security/blog/2019/02/21/lessons-learned-from-the-microsoft-soc-part-1-organization/)
-[Become an Azure Sentinel Ninja: The complete level 400 training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310?fbclid=IwAR2foglGnNoQnBuM3XLeBQpk-fcDaLchOuCQa4Y6GPCWdNbjedBzACLw4K0#)
+[Microsoft - CISO Series: Lessons learned from the Microsoft SOC-Part 1: Organization](https://www.microsoft.com/security/blog/2019/02/21/lessons-learned-from-the-microsoft-soc-part-1-organization/)
+[Microsoft - Become an Azure Sentinel Ninja: The complete level 400 training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310?fbclid=IwAR2foglGnNoQnBuM3XLeBQpk-fcDaLchOuCQa4Y6GPCWdNbjedBzACLw4K0#)
 
 1.3 Apply the playbook for a common scenario (for example, unauthorized elevation of   privilege, DoS and DDoS, website defacement) |  
 ----  |  
