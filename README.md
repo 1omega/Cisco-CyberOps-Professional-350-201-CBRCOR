@@ -23,6 +23,7 @@
 [Integrated Adaptive Cyber Defense](https://www.iacdautomate.org/)
 [Top 5 best practices to automate security operations](https://www.microsoft.com/security/blog/2017/08/03/top-5-best-practices-to-automate-security-operations/)
 [Security Automation Best Practices](https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/rapid7-komand-automation-best-practices-whitepaper.pdf)
+[Using a playbook model to organize your information security monitoring strategy](https://blogs.cisco.com/security/using-a-playbook-model-to-organize-your-information-security-monitoring-strategy)
 
 1.2 Determine the tools needed based on a playbook scenario |  
 ----  |  
