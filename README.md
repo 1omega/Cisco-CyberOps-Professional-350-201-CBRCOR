@@ -158,9 +158,7 @@
 3.3 Apply the concepts and sequence of steps in the malware analysis process: |  
 ----  |  
 
-3.3.a Extract and identify samples for analysis (for example, from packet capture or packet analysis tools)
-
- |  
+3.3.a Extract and identify samples for analysis (for example, from packet capture or packet analysis tools)|  
 ----  |  
 
 3.3.b Perform reverse engineering |  
