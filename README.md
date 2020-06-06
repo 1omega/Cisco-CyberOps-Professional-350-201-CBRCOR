@@ -52,7 +52,8 @@
 ----  |  
 
 1.9  Describe types of cloud environments (for example, IaaS platform) |  
-----  |  
+----  | 
+[Microsoft - Type of cloud services](https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/5-types-of-cloud-services)
 
 1.10 Compare security operations considerations of cloud platforms (for example, IaaS, PaaS) |  
 ----  |  
@@ -64,6 +65,7 @@
 
 2.2 Describe the use of hardening machine images for deployment |  
 ----  |  
+[CIS - CIS Hardend Images](https://www.cisecurity.org/cis-hardened-images/)
 
 2.3 Describe the process of evaluating the security posture of an asset |  
 ----  |  
@@ -129,7 +131,9 @@
 ----  |  
 
 2.20 Analyze anomalous user and entity behavior (UEBA) |  
-----  |  
+----  |
+[Splunk - What is user behavior analytics (UBA/UEBA)](https://www.splunk.com/en_us/data-insider/user-behavior-analytics-ueba.html)
+[Splunk - Splunk User Behavior Analytics (Splunk UBA)](https://splunkbase.splunk.com/app/2941/)
 
 2.21 Determine the next action based on user behavior alerts |  
 ----  |  
@@ -139,6 +143,7 @@
 
 2.23 Evaluate artifacts and streams in a packet capture file |  
 ----  |  
+[Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/training-exercises.html)
 
 2.24 Troubleshoot existing detection rules |  
 ----  |  
