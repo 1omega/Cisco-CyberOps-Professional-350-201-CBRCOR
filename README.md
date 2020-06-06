@@ -133,7 +133,7 @@
 2.20 Analyze anomalous user and entity behavior (UEBA) |  
 ----  |
 [Splunk - What is user behavior analytics (UBA/UEBA)](https://www.splunk.com/en_us/data-insider/user-behavior-analytics-ueba.html)
-[Splunk - Splunk User Behavior Analytics (Splunk UBA)](https://splunkbase.splunk.com/app/2941/)
+[Splunk App - Splunk User Behavior Analytics (Splunk UBA)](https://splunkbase.splunk.com/app/2941/)
 
 2.21 Determine the next action based on user behavior alerts |  
 ----  |  
