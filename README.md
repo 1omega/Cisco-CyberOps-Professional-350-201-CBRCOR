@@ -150,7 +150,8 @@
 
 2.25 Determine the tactics, techniques, and procedures (TTPs) from an attack   |  
 ----  |  
-
+[MITRE ATT&CK](https://attack.mitre.org/)
+[UNIT 42 PLAYBOOK VIEWER](https://pan-unit42.github.io/playbook_viewer/)
 
 ### [3.0 Processes 30%](https://github.com/DoGByTe-ZN/Cisco-CyberOps-Professional-350-201-CBRCOR/blob/master/README.md#30-processes-30)
 
