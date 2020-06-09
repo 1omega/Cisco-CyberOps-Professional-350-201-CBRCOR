@@ -244,7 +244,7 @@
 
 4.12 Apply the principles of DevOps practices |  
 ----  | 
-[Devopsagileskills.org - DASA DEVOPS PRINCIPLES](https://www.devopsagileskills.org/dasa-devops-principles/)
+[Devops Agile Skills Association - DASA DEVOPS PRINCIPLES](https://www.devopsagileskills.org/dasa-devops-principles/)
 
 4.13 Describe the principles of Infrastructure as Code |  
 ----  | 
