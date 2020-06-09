@@ -210,15 +210,15 @@
 
 4.2 Interpret basic scripts (for example, Python) |  
 ----  | 
-[realpython.com](https://realpython.com/run-python-scripts/)
+[Realpython.com - Run Python Scripts](https://realpython.com/run-python-scripts/)
 
 4.3 Modify a provided script to automate a security operations task |  
 ----  | 
 
 4.4 Recognize common data formats (for example, JSON, HTML, CSV, XML) |  
 ----  | 
-[guru99.com - JSON](https://www.guru99.com/json-tutorial-example.html)
-[w3.org - XML VS HTML](https://www.w3.org/standards/xml/core)
+[Guru99.com - JSON](https://www.guru99.com/json-tutorial-example.html)
+[W3.org - XML VS HTML](https://www.w3.org/standards/xml/core)
 [CSV](https://json-csv.com/csv)
 
 4.5 Determine opportunities for automation and orchestration |  
@@ -233,7 +233,7 @@
 
 4.8 Evaluate the parts of an HTTP response (response code, headers, body) |  
 ----  | 
-[tutorialspoint - HTTP - Quick Guide](https://www.tutorialspoint.com/http/http_quick_guide.htm)
+[Tutorialspoint - HTTP - Quick Guide](https://www.tutorialspoint.com/http/http_quick_guide.htm)
 
 4.9 Interpret API authentication mechanisms: basic, custom token, and API keys |  
 ----  | 
@@ -244,7 +244,7 @@
 
 4.11 Describe components of a CI/CD pipeline |  
 ----  | 
-[semaphore - CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
+[Semaphore - CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
 
 4.12 Apply the principles of DevOps practices |  
 ----  | 
