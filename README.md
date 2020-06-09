@@ -224,22 +224,28 @@
 ----  | 
 
 4.7 Explain the common HTTP response codes associated with REST APIs |  
-----  | 
+----  |
+[COMMVAULT](http://developer.commvault.com/commvault/v11/article?p=45599.htm)
 
 4.8 Evaluate the parts of an HTTP response (response code, headers, body) |  
 ----  | 
+[tutorialspoint - HTTP - Quick Guide](https://www.tutorialspoint.com/http/http_quick_guide.htm)
 
 4.9 Interpret API authentication mechanisms: basic, custom token, and API keys |  
 ----  | 
 
 4.10 Utilize Bash commands (file management, directory navigation, and environmental variables) |  
 ----  | 
+[Linux Professional Institue - Learning](https://learning.lpi.org/en/)
 
 4.11 Describe components of a CI/CD pipeline |  
 ----  | 
+[semaphore - CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
 
 4.12 Apply the principles of DevOps practices |  
 ----  | 
+[DASA DEVOPS PRINCIPLES](https://www.devopsagileskills.org/dasa-devops-principles/)
 
 4.13 Describe the principles of Infrastructure as Code |  
 ----  | 
+[O'Reilly](https://www.oreilly.com/library/view/test-driven-infrastructure-with/9781449309718/ch01s02.html)
