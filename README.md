@@ -216,6 +216,9 @@
 
 4.4 Recognize common data formats (for example, JSON, HTML, CSV, XML) |  
 ----  | 
+[JSON](https://www.guru99.com/json-tutorial-example.html)
+[XML VS HTML](https://www.w3.org/standards/xml/core)
+[CSV](https://json-csv.com/csv)
 
 4.5 Determine opportunities for automation and orchestration |  
 ----  | 
