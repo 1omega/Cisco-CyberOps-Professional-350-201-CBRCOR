@@ -244,8 +244,8 @@
 
 4.12 Apply the principles of DevOps practices |  
 ----  | 
-[DASA DEVOPS PRINCIPLES](https://www.devopsagileskills.org/dasa-devops-principles/)
+[Devopsagileskills.org - DASA DEVOPS PRINCIPLES](https://www.devopsagileskills.org/dasa-devops-principles/)
 
 4.13 Describe the principles of Infrastructure as Code |  
 ----  | 
-[O'Reilly](https://www.oreilly.com/library/view/test-driven-infrastructure-with/9781449309718/ch01s02.html)
+[O'Reilly - Test-Driven Infrastructure with Chef by Stephen Nelson-Smith](https://www.oreilly.com/library/view/test-driven-infrastructure-with/9781449309718/ch01s02.html)
